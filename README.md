@@ -49,12 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GustavoYann/GustavoYann/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="left">
   <a href="wa.me/+5519971231583" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="" alt="whatsapp logo"  />
